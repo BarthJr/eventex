@@ -1,10 +1,10 @@
-from django.conf import settings
 from django.contrib import messages
 from django.core import mail
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
 from django.template.loader import render_to_string
 
+from django.conf import settings
 from eventex.subscriptions.forms import SubscriptionForm
 
 
@@ -21,8 +21,10 @@ def create(request):
         return render(request, 'subscriptions/subscription_form.html',
                       {'form': form})
 
+
+
     #Send email
-    _send_mail('Confirmação de inscricao',
+    _send_mail('Confirmação de inscrição',
                settings.DEFAULT_FROM_EMAIL,
                form.cleaned_data['email'],
                'subscriptions/subscription_email.txt',

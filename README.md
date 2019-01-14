@@ -2,9 +2,6 @@
 
 Sistema de Eventos encomendado pela Morena.
 
-[![Code Health](https://landscape.io/github/BarthJr/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/BarthJr/eventex/master)
-
-
 ## Como desenvolver?
 1. Clone o repositório
 2. Crie um virtualenv com o Python 3.5

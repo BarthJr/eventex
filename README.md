@@ -2,6 +2,8 @@
 
 Sistema de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/BarthJr/eventex.svg?branch=master)](https://travis-ci.org/BarthJr/eventex)
+
 ## Como desenvolver?
 1. Clone o repositório
 2. Crie um virtualenv com o Python 3.5

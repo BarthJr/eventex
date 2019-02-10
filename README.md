@@ -3,6 +3,8 @@
 Sistema de Eventos encomendado pela Morena.
 
 [![Build Status](https://travis-ci.org/BarthJr/eventex.svg?branch=master)](https://travis-ci.org/BarthJr/eventex)
+[![Updates](https://pyup.io/repos/github/BarthJr/eventex/shield.svg)](https://pyup.io/repos/github/BarthJr/eventex/)
+
 
 ## Como desenvolver?
 1. Clone o repositório

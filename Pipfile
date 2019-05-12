@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+ipython = {extras = ["notebook"],version = "*"}
+
+[packages]
+dj-database-url = "*"
+django = "==2.1.7"
+dj-static = "*"
+python-decouple = "*"
+static3 = "*"
+gunicorn = "*"
+django-extensions = "*"
+django-test-without-migrations = "*"
+pytz = "*"
+
+[requires]
+python_version = "3.7"

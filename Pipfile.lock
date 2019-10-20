@@ -41,10 +41,10 @@
         },
         "django-extensions": {
             "hashes": [
-                "sha256:097450a56fcfdef36bb4dd731b113d1b3e9a9de715fc8775e5e84ab3be50dd96",
-                "sha256:a1799a7eb4cf0f7aa0d111bac79047227b55a74d11741f387708023a012662f9"
+                "sha256:6b7930d11b56918fb1cd47171c6316a01ed4c7e99a7e192aadaf81148afc6896",
+                "sha256:ca7012a30605904ac3b683c0ad7c838f320b84506332510146ed9779b1a3b485"
             ],
-            "version": "==2.1.9"
+            "version": "==2.2.4"
         },
         "django-test-without-migrations": {
             "hashes": [

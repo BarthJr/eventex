@@ -8,7 +8,7 @@ ipython = {extras = ["notebook"],version = "*"}
 
 [packages]
 dj-database-url = "*"
-django = "==2.1.7"
+django = "==2.1.11"
 dj-static = "*"
 python-decouple = "*"
 static3 = "*"

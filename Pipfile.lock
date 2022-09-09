@@ -40,11 +40,8 @@
             "version": "==2.1.7"
         },
         "django-extensions": {
-            "hashes": [
-                "sha256:097450a56fcfdef36bb4dd731b113d1b3e9a9de715fc8775e5e84ab3be50dd96",
-                "sha256:a1799a7eb4cf0f7aa0d111bac79047227b55a74d11741f387708023a012662f9"
-            ],
-            "version": "==2.1.9"
+            "hashes": [],
+            "version": "==3.2.1"
         },
         "django-test-without-migrations": {
             "hashes": [

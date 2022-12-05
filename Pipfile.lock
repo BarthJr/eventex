@@ -374,11 +374,8 @@
             "version": "==1.12.0"
         },
         "terminado": {
-            "hashes": [
-                "sha256:d9d012de63acb8223ac969c17c3043337c2fcfd28f3aea1ee429b345d01ef460",
-                "sha256:de08e141f83c3a0798b050ecb097ab6259c3f0331b2f7b7750c9075ced2c20c2"
-            ],
-            "version": "==0.8.2"
+            "hashes": [],
+            "version": "==0.17.1"
         },
         "testpath": {
             "hashes": [

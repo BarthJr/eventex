@@ -8,14 +8,14 @@ ipython = {extras = ["notebook"],version = "*"}
 
 [packages]
 dj-database-url = "*"
-django = "==2.1.7"
 dj-static = "*"
-python-decouple = "*"
-static3 = "*"
-gunicorn = "*"
+django = "==4.1.6"
 django-extensions = "*"
 django-test-without-migrations = "*"
+gunicorn = "*"
+python-decouple = "*"
 pytz = "*"
+static3 = "*"
 
 [requires]
 python_version = "3.7"

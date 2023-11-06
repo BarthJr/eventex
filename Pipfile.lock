@@ -238,11 +238,8 @@
             "version": "==0.8.4"
         },
         "nbconvert": {
-            "hashes": [
-                "sha256:138381baa41d83584459b5cfecfc38c800ccf1f37d9ddd0bd440783346a4c39c",
-                "sha256:4a978548d8383f6b2cfca4a3b0543afb77bc7cb5a96e8b424337ab58c12da9bc"
-            ],
-            "version": "==5.5.0"
+            "hashes": [],
+            "version": "==7.11.0"
         },
         "nbformat": {
             "hashes": [
